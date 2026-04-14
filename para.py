@@ -4,7 +4,7 @@ import google.generativeai as genai
 #from dotenv import load_dotenv
 import google.api_core.exceptions
 
-#GEMINI_API_KEY="AIzaSyDkdWrdWK0xq5YvnVSN0PBRi_S2C-fKZHI"
+
 # Load API key
 #load_dotenv()
 #api_key = os.getenv("GEMINI_API_KEY")
